@@ -7,6 +7,7 @@ function App() {
     <div className={styles.app}>
       <div className={styles.sidebar}>
         <main>
+          hola
           <Outlet />
         </main>
       </div>
